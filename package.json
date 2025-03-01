@@ -1,0 +1,9 @@
+{
+    "name": "telegram_webapp_downloader",
+    "dependencies": {
+        "telegraf": "^4.12.2",
+        "dotenv": "^16.0.3",
+        "express": "^4.18.2",
+        "puppeteer": "^21.3.5"
+    }
+}
